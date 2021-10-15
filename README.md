@@ -1,8 +1,8 @@
 # threejs-presentation-ascarya-hilmy-nadhif
 threejs-presentation-ascarya-hilmy-nadhif created by GitHub Classroom
 
-Ascarya
+Ascarya Arkaandhiyaa Allaam - 05111942000027
 
-Hilmy. H
+Hilmy Hanif Ibrahim - 05111942000005
 
-Nadhif
+Nadhif Bhagawanta Hadiprayitno - 05111942000029
